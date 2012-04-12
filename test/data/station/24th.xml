@@ -1,0 +1,20 @@
+<root>
+	<uri>
+	<![CDATA[
+	http://api.bart.gov/api/stn.aspx?cmd=stninfo&orig=24th
+	]]>
+	</uri>
+	<stations>
+		<station>
+			<name>24th St. Mission</name>
+			<abbr>24TH</abbr>
+			<gtfs_latitude>37.752254</gtfs_latitude>
+			<gtfs_longitude>-122.418466</gtfs_longitude>
+			<address>2800 Mission Street</address>
+			<city>San Francisco</city>
+			<county>sanfrancisco</county>
+			<state>CA</state>
+			<zipcode>94110</zipcode>
+		</station>
+	</stations>
+</root>

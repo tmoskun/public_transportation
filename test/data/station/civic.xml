@@ -1,0 +1,20 @@
+<root>
+	<uri>
+	<![CDATA[
+	http://api.bart.gov/api/stn.aspx?cmd=stninfo&orig=24th
+	]]>
+	</uri>
+	<stations>
+		<station>
+			<name>Civic Center/UN Plaza</name>
+			<abbr>CIVC</abbr>
+			<gtfs_latitude>37.779528</gtfs_latitude>
+			<gtfs_longitude>-122.413756</gtfs_longitude>
+			<address>1150 Market Street</address>
+			<city>San Francisco</city>
+			<county>sanfrancisco</county>
+			<state>CA</state>
+			<zipcode>94102</zipcode>
+		</station>
+	</stations>
+	</root>

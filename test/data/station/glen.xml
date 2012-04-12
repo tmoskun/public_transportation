@@ -1,0 +1,20 @@
+<root>
+	<uri>
+	<![CDATA[
+	http://api.bart.gov/api/stn.aspx?cmd=stninfo&orig=24th
+	]]>
+	</uri>
+	<stations>
+		<station>
+			<name>Glen Park</name>
+			<abbr>GLEN</abbr>
+			<gtfs_latitude>37.732921</gtfs_latitude>
+			<gtfs_longitude>-122.434092</gtfs_longitude>
+			<address>2901 Diamond Street</address>
+			<city>San Francisco</city>
+			<county>sanfrancisco</county>
+			<state>CA</state>
+			<zipcode>94131</zipcode>
+		</station>
+	</stations>
+</root>

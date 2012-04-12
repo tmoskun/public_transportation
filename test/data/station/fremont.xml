@@ -1,0 +1,20 @@
+<root>
+	<uri>
+	<![CDATA[
+	http://api.bart.gov/api/stn.aspx?cmd=stninfo&orig=24th
+	]]>
+	</uri>
+	<stations>
+		<station>
+			<name>Fremont</name>
+			<abbr>FRMT</abbr>
+			<gtfs_latitude>37.557355</gtfs_latitude>
+			<gtfs_longitude>-121.9764</gtfs_longitude>
+			<address>2000 BART Way</address>
+			<city>Fremont</city>
+			<county>alameda</county>
+			<state>CA</state>
+			<zipcode>94536</zipcode>
+		</station>
+	</stations>
+</root>

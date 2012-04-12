@@ -1,0 +1,20 @@
+<root>
+	<uri>
+	<![CDATA[
+	http://api.bart.gov/api/stn.aspx?cmd=stninfo&orig=24th
+	]]>
+	</uri>
+	<stations>
+		<station>
+			<name>16th St. Mission</name>
+			<abbr>16TH</abbr>
+			<gtfs_latitude>37.765062</gtfs_latitude>
+			<gtfs_longitude>-122.419694</gtfs_longitude>
+			<address>2000 Mission Street</address>
+			<city>San Francisco</city>
+			<county>sanfrancisco</county>
+			<state>CA</state>
+			<zipcode>94110</zipcode>
+		</station>
+	</stations>
+</root>

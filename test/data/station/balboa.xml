@@ -1,0 +1,20 @@
+<root>
+	<uri>
+	<![CDATA[
+	http://api.bart.gov/api/stn.aspx?cmd=stninfo&orig=24th
+	]]>
+	</uri>
+	<stations>
+		<station>
+			<name>Balboa Park</name>
+			<abbr>BALB</abbr>
+			<gtfs_latitude>37.72198087</gtfs_latitude>
+			<gtfs_longitude>-122.4474142</gtfs_longitude>
+			<address>401 Geneva Avenue</address>
+			<city>San Francisco</city>
+			<county>sanfrancisco</county>
+			<state>CA</state>
+			<zipcode>94112</zipcode>
+		</station>
+	</stations>
+</root>
